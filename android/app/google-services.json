@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "738504089346",
+    "project_id": "ofsa-3c2fc",
+    "storage_bucket": "ofsa-3c2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738504089346:android:1c5da95f1fca0bd7faec1b",
+        "android_client_info": {
+          "package_name": "com.example.ofsa_client_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuePtnWKmrJwRbb3OhNmOkBeJugXbCAyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738504089346:android:f8028c547436383efaec1b",
+        "android_client_info": {
+          "package_name": "com.example.osfa_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuePtnWKmrJwRbb3OhNmOkBeJugXbCAyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738504089346:android:f6e22eb089a99840faec1b",
+        "android_client_info": {
+          "package_name": "com.ofsa.client.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuePtnWKmrJwRbb3OhNmOkBeJugXbCAyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
