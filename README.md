@@ -18,6 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 and after setting up te vsual code install dependencies for c++ for desktop and mobile,
 so that you can run the project without any system error 
 
+
+hello everyone , this project is basically for the android devices
+and this is the client part of the project and for admin visit admin code. link to the admin project ----https://github.com/RaunakSingh19/osfa_admin
+
 after this you have to install the dependencies of the flutter ,
 So , open terminal , And type 
 ---------------
