@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 --to run the project you have to install visual studio 2022 
-and after setting up te vsual code install dependencies for c++ for desktop and mobile,
+and after setting up the vsual code install dependencies for c++ for desktop and mobile,
 so that you can run the project without any system error 
 
 
